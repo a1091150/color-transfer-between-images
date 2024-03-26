@@ -6,7 +6,7 @@ Implement the method in the paper with Python programming language and OpenCV li
 ## Color Transformer between Images
 E. Reinhard, M. Ashikhmin, B. Gooch, and P. Shirley, “Color Transfer between Images,” IEEE Computer Graphics and Applications, vol. 21, no. 5, pp. 34-41, September/October 2001.
 
-## Python Envioroment Installation
+### Python Envioroment Installation
 ```
 !pip install opencv-python
 !pip install pandas
@@ -47,4 +47,4 @@ Target Image:
 
 Result Image:
 
-![Blank]()
+![](/coltra/01_kodim06_kodim01.png)
